@@ -1,0 +1,47 @@
+---
+title: "Movilidad"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Entrante / Saliente
+
+```{r}
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Verano
+
+```{r}
+
+```
+
+### Resumen
+
+```{r}
+
+```
+
+
+### Total
+
+```{r}
+
+```
+
+
+
+
+
